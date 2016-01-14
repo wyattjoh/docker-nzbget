@@ -1,4 +1,4 @@
 #!/bin/bash
 
 
-if [ -f /downloads/nzbget.lock ]; then rm /downloads/nzbget.lock; fi
+if [ -f /config/nzbget.lock ]; then rm /config/nzbget.lock; fi
